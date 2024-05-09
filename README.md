@@ -259,4 +259,4 @@ REFERENCES vendas(`id_venda`);
 ```
 
 #### Modelo Relacional do banco de dados
-!["Modelo Relacional"](diagrama_bikeshop.png)
+!["Modelo Relacional"](DiagramaBikeShop.png)
